@@ -6,3 +6,19 @@
 
 ## LINKS
 Introducing BDD --> http://dannorth.net/introducing-bdd/
+
+## ADDING MOCKITO
+### MAVEN
+```
+<dependency>
+<groupId>org.mockito</groupId>
+<artifactId>mockito-all</artifactId>
+<version>1.9.5</version>
+<scope>test</scope>
+</dependency>
+```
+
+### GRADLE
+~~~
+testCompile "org.mockito:mockito-all:1.9.5"
+~~~
