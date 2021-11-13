@@ -28,4 +28,15 @@ testCompile "org.mockito:mockito-all:1.9.5"
 @Mock:  This is used for mock creation  
 @Spy:   This is used to create a spy instance  
 @InjectMocks: This is used to instantiate the @InjectMock annotated field and inject all the @Mock or @Spy annotated fields into it (if applicable)  
-@Captor : This is used to create an argument captor  
+@Captor : This is used to create an argument captor
+
+
+## ADDING JUNIT
+```
+<dependency>
+<groupId>junit</groupId>
+<artifactId>junit</artifactId>
+<version>4.11</version>
+<scope>test</scope>
+</dependency>
+```
