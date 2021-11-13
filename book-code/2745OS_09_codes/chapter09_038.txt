@@ -1,2 +1,0 @@
-
-testCompile 'org.jukito:jukito:1.4'

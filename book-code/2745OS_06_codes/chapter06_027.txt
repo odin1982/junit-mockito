@@ -1,2 +1,0 @@
-
-inOrder.verify(taxService, atLeastOnce()).transferTaxFor(person);

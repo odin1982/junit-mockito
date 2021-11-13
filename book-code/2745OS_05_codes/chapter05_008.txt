@@ -1,2 +1,0 @@
-
-willThrow(exception1, exception2).given(taxFetcher).getTax();

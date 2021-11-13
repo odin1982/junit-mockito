@@ -1,2 +1,0 @@
-
-Mockito.verify(mock, VerificationMode.atMost(count)).methodToVerify(...) 

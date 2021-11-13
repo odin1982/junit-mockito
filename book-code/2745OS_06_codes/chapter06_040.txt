@@ -1,2 +1,0 @@
-
-verify(personSaver, timeout(1000).atLeast(2)).savePerson(any(Person.class));

@@ -1,2 +1,0 @@
-
-willThrow(ex1).willThrow(ex2).given(spy).methodToStub()

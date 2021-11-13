@@ -1,4 +1,0 @@
-
-org.junit.ComparisonFailure: 
-Expected :10.0
-Actual   :0.0

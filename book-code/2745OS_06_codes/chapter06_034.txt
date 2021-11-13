@@ -1,2 +1,0 @@
-
-Mockito.verifyNoMoreInteractions(Mockito.ignoreStubs(mocks...));

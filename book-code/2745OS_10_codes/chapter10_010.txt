@@ -1,2 +1,0 @@
-
-testCompile 'com.googlecode.jmockit:jmockit:1.7'

@@ -1,2 +1,0 @@
-
-willReturn(obj1).willReturn(obj2).given(spy).methodToStub()

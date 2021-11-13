@@ -1,2 +1,0 @@
-
-@Listeners(mockit.integration.testng.Initializer.class)

@@ -1,4 +1,0 @@
-
-inOrder.verify(mock).method(...);
-inOrder.verify(mock, verificationMode).method(...);
-inOrder.verifyNoMoreInteractions()

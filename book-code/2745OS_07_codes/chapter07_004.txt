@@ -1,2 +1,0 @@
-
-Assert.assertThat(T object, Matcher<? super T> matcher)

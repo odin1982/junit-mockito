@@ -1,4 +1,0 @@
-
-@Configuration
-@ComponentScan("com.blogspot.toomuchcoding.book.chapter9.InjectingWithSpringComponentScan")
-class TaxConfiguration { }

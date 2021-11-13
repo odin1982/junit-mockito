@@ -1,7 +1,0 @@
-
-<dependency>
-	    <groupId>org.powermock</groupId>
-	    <artifactId>powermock-api-mockito</artifactId>
-	    <version>1.5.2</version>
-	    <scope>test</scope>
-</dependency>      

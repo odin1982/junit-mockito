@@ -1,2 +1,0 @@
-
-given(...).willAnswer(answer1, answer2, …. answerN)

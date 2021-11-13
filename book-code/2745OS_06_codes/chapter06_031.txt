@@ -1,4 +1,0 @@
-
-taxService.transferTaxFor(person);
-taxService.updateTaxFactor(person, taxFactor);
-	taxService.transferTaxFor(person);

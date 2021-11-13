@@ -1,3 +1,0 @@
-
-// given
-doNothing().when(taxService).updateTaxData(anyDouble(), any(Person.class));

@@ -1,3 +1,0 @@
-
-Person smith = new Person();
-given(taxFactorFetcher.getTaxFactorFor(smith).willReturn(10);

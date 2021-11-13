@@ -1,2 +1,0 @@
-
-willThrow(exception).willNothing().given(spy).methodToSpy();

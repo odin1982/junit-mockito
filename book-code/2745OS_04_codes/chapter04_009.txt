@@ -1,2 +1,0 @@
-
-given(taxFactorFetcher.getTaxFactorFor(any(Person.class))).willReturn(taxFactor, anotherTaxFactor);

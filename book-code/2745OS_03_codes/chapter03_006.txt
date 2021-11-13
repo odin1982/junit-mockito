@@ -1,3 +1,0 @@
-
-TaxService taxService = mock(TaxService.class, withSettings().serializable().spiedInstance(new TaxService()).defaultAnswer(CALLS_REAL_METHODS));
-

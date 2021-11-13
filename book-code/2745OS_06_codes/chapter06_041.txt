@@ -1,2 +1,0 @@
-
-testCompile 'com.jayway.awaitility:awaitility:1.6.0'

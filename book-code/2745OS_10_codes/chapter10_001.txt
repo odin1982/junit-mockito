@@ -1,2 +1,0 @@
-
-testCompile 'org.easymock:easymock:3.2'

@@ -1,2 +1,0 @@
-
-assertThat(newPerson).isNotNull().isNotEqualTo(person);

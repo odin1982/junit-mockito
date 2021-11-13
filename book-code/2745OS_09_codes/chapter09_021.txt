@@ -1,2 +1,0 @@
-
-testCompile 'org.kubek2k:springockito-annotations:1.0.9'

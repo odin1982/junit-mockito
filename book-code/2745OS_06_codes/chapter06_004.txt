@@ -1,2 +1,0 @@
-
-verify(taxService).updateMeanTaxFactor(any(Person.class), anyDouble());

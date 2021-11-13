@@ -1,6 +1,0 @@
-
-<dependency>
-	<groupId>org.jukito</groupId>
-	<artifactId>jukito</artifactId>
-	<version>1.4</version>
-</dependency>            

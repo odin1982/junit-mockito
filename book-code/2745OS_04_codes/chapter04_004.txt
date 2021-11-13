@@ -1,2 +1,0 @@
-
-given(irsDataFetcher.isIrsApplicable(any(Person.class), eq("Warsaw"))).willReturn(true);

@@ -1,2 +1,0 @@
-
-TaxFactorCalculator systemUnderTest = new TaxFactorCalculator();

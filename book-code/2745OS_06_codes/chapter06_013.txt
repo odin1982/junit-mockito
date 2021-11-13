@@ -1,3 +1,0 @@
-
-Call the 
-Mockito.verify(mock, VerificationMode.never()).methodToVerify(...) 
