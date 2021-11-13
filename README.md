@@ -22,3 +22,10 @@ Introducing BDD --> http://dannorth.net/introducing-bdd/
 ~~~
 testCompile "org.mockito:mockito-all:1.9.5"
 ~~~
+
+
+## ANNOTATIONS
+@Mock:  This is used for mock creation  
+@Spy:   This is used to create a spy instance  
+@InjectMocks: This is used to instantiate the @InjectMock annotated field and inject all the @Mock or @Spy annotated fields into it (if applicable)  
+@Captor : This is used to create an argument captor  
