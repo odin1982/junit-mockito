@@ -32,6 +32,7 @@ testCompile "org.mockito:mockito-all:1.9.5"
 
 
 ## ADDING JUNIT
+### MAVEN
 ```
 <dependency>
 <groupId>junit</groupId>
@@ -39,4 +40,9 @@ testCompile "org.mockito:mockito-all:1.9.5"
 <version>4.11</version>
 <scope>test</scope>
 </dependency>
+```
+
+### GRADLE
+```
+testCompile('junit:junit:4.11')
 ```
