@@ -5,8 +5,8 @@ import org.mockito.common.Person;
 public interface TaxService {
 
     double getCurrentTaxFactorFor(Person person);
-
 	double performAdditionalCalculation();
+	String getInternalRevenueServiceAddress(String country);
 }
 
 
