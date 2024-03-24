@@ -34,3 +34,5 @@ bin/
 
 /.idea/
 /java8-in-action-book.iml
+/target
+*.iml
